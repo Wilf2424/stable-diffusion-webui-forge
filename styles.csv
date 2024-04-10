@@ -1,4 +1,5 @@
 ﻿name,prompt,negative_prompt
++ neishonMoney, "(ScarlettJ_SoloTI_v1), (TrualityCampus_Hannah), (TrualityCampus_Norah)"
 + Details,maximum details,
 + Natural Skin,"{prompt}, natural skin texture, hyperrealism, soft light, muted colors","oversaturated, illustration, anime, (mannequin:0.6), graphic, cg, cgi, cartoon, glitch, 3d, 2d, octane, sketch, acrylic, painting, drawing"
 - Negative Lite,,"oversaturated, disfigured, poorly, bad, wrong, mutated"
