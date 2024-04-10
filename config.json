@@ -4,7 +4,7 @@
     "samples_filename_pattern": "[seed]-[datetime<%M%S>]-[prompt_spaces]",
     "save_images_add_number": true,
     "save_images_replace_action": "Replace",
-    "grid_save": true,
+    "grid_save": false,
     "grid_format": "png",
     "grid_extended_filename": true,
     "grid_only_if_multiple": true,
